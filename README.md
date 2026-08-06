@@ -48,9 +48,7 @@ The model was trained and evaluated on raw, uncompressed **DICOM structural MRI 
 ---
 
 ## ⚙️ Prerequisites & Installation
-
 **Environment:** Python 3.8+ and PyTorch (CUDA recommended).
 
 Install the required dependencies:
-```bash
 pip install -r requirements.txt
